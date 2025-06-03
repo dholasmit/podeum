@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "806907455892",
+    "project_id": "podeum-88081",
+    "storage_bucket": "podeum-88081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806907455892:android:f99a8cd615741d341ec781",
+        "android_client_info": {
+          "package_name": "com.olympusmons.podeum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806907455892-a0lfut5726uctdeo4obj281c1k5m4a5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olympusmons.podeum",
+            "certificate_hash": "5546f9061db52116d28e3a858b10ff47930e8e7f"
+          }
+        },
+        {
+          "client_id": "806907455892-ak4str5eoils1uno5mpmni20nhfipro6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olympusmons.podeum",
+            "certificate_hash": "e04fbb7e44444802e17a243ef440b9c3e772f1cf"
+          }
+        },
+        {
+          "client_id": "806907455892-gjv5fn30s3ro50jtf8vtnlu2cmmms007.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olympusmons.podeum",
+            "certificate_hash": "729010452df91d17b3aceb6620e84c8713cb1f42"
+          }
+        },
+        {
+          "client_id": "806907455892-rnrh5eq0ife607ivgb5ph98pfevtqe2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olympusmons.podeum",
+            "certificate_hash": "b23e7ecf0c04be17aa6e06cfe599a0f157b71136"
+          }
+        },
+        {
+          "client_id": "806907455892-q6sith9qtoea0fd0gfr6t92t6pcvg7t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-mm-6g-wRgghy4ktc0f_ScXKXDSd5q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806907455892-q6sith9qtoea0fd0gfr6t92t6pcvg7t7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806907455892-01joujghac4ok5kke0iogit2uokdsbua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olympusmons.podeum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

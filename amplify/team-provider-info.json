@@ -1,0 +1,25 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-podeumapp-prod-03039-authRole",
+      "UnauthRoleArn": "arn:aws:iam::301708254187:role/amplify-podeumapp-prod-03039-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::301708254187:role/amplify-podeumapp-prod-03039-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-podeumapp-prod-03039-deployment",
+      "UnauthRoleName": "amplify-podeumapp-prod-03039-unauthRole",
+      "StackName": "amplify-podeumapp-prod-03039",
+      "StackId": "arn:aws:cloudformation:ap-south-1:301708254187:stack/amplify-podeumapp-prod-03039/795e3b20-b0c4-11ec-aac3-02f477cf33d8",
+      "AmplifyAppId": "d1vrc97x5iu76k"
+    },
+    "categories": {
+      "auth": {
+        "podeumapp58b24d63": {
+          "userPoolId": "ap-south-1_4O4PT1LtZ",
+          "userPoolName": "podeum-users",
+          "webClientId": "2qdd2jpmiruci4e19h8266kem6",
+          "nativeClientId": "41k978e2cbl78208v7kdisv7ua"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>806907455892-01joujghac4ok5kke0iogit2uokdsbua.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.806907455892-01joujghac4ok5kke0iogit2uokdsbua</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>806907455892-a0lfut5726uctdeo4obj281c1k5m4a5r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxRP6058nPj3jAG3fjYTDFZ-Vw0arWleI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>806907455892</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.olympusmons.podeum</string>
+	<key>PROJECT_ID</key>
+	<string>podeum-88081</string>
+	<key>STORAGE_BUCKET</key>
+	<string>podeum-88081.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:806907455892:ios:68428ffccb4d88a31ec781</string>
+</dict>
+</plist>

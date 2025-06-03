@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "podeumapp58b24d63": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

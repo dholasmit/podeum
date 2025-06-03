@@ -1,0 +1,27 @@
+{
+  "authSelections": "userPoolOnly",
+  "resourceName": "podeumapp58b24d63",
+  "serviceType": "imported",
+  "region": "ap-south-1",
+  "aliasAttributes": [
+    "email",
+    "phone_number"
+  ],
+  "authProvidersUserPool": [],
+  "requiredAttributes": [
+    "name"
+  ],
+  "passwordPolicyMinLength": 8,
+  "passwordPolicyCharacters": [
+    "Requires Lowercase",
+    "Requires Uppercase",
+    "Requires Numbers",
+    "Requires Symbols"
+  ],
+  "mfaConfiguration": "OFF",
+  "autoVerifiedAttributes": [
+    "email",
+    "phone_number"
+  ],
+  "mfaTypes": []
+}
